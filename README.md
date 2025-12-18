@@ -4,10 +4,10 @@
 <h1>Hi, I'm Aditya 👋</h1>
 
 <h3>Associate Trainee · Advanced Analytics @ Mouri Tech</h3>
-
+<img src="https://komarev.com/ghpvc/?username=Aditya-Somasi&style=flat-square&color=blue" alt="profile views" />
 <img src="https://readme-typing-svg.herokuapp.com?lines=GenAI+Explorer;RAG+Chatbots+Developer;AI+Agents+%7C+Agentic+AI;ML+%7C+DL+%7C+Data+Science;Azure+%7C+FastAPI+%7C+Elasticsearch&center=true&width=750&height=45">
 
-<img src="https://komarev.com/ghpvc/?username=Aditya-Somasi&style=flat-square&color=blue" alt="profile views" />
+
 Building intelligent systems where <b>data, models, and orchestration</b> meet.
 
 
