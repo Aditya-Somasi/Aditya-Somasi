@@ -30,10 +30,6 @@ I like understanding **how things work internally**, not just making them work.
 
 ## 🛠️ Languages & Core Tools
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/> <img width="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/> </div>
-• LangChain, Google ADK, MCP
-• Azure-based AI systems
-• FastAPI for intelligent backends
-• Elasticsearch for semantic & hybrid search
 
 ---
 ## 🤖 GenAI · ML · Data Stack
@@ -42,7 +38,7 @@ I like understanding **how things work internally**, not just making them work.
 
 ## 🔗 GenAI / Agentic Tooling
 
-<div align="left"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40"/> <img width="10"/> <img src="https://img.shields.io/badge/LangChain-2F855A?style=for-the-badge" height="28"/> <img width="10"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" height="40"/> <img width="10"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elasticsearch.svg" height="40"/> </div>
+<div align="left"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40"/> <img width="10"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="40"/> <img width="10"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" height="40"/> <img width="10"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elasticsearch.svg" height="40"/> </div>
 
 ## ☁️ Cloud · Backend · Frameworks
 
