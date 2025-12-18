@@ -59,7 +59,11 @@ I like understanding **how things work internally**, not just making them work.
 ## 🔗 GenAI / Agentic Tooling
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/openai/white" height="42"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/white"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/openai/black"/>
+    <img height="42"/>
+  </picture>
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="42"/>
   <img width="12"/>
