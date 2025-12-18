@@ -59,16 +59,23 @@ I like understanding **how things work internally**, not just making them work.
 ## 🔗 GenAI / Agentic Tooling
 
 <div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/white"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/openai/black"/>
-    <img height="42"/>
-  </picture>
+  <!-- Azure OpenAI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42"/>
   <img width="12"/>
+
+  <!-- Google ADK / Google AI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42"/>
+  <img width="12"/>
+
+  <!-- LangChain -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="42"/>
   <img width="12"/>
+
+  <!-- FastAPI -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" height="42"/>
   <img width="12"/>
+
+  <!-- Elasticsearch -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elasticsearch.svg" height="42"/>
 </div>
 
@@ -78,8 +85,6 @@ I like understanding **how things work internally**, not just making them work.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42"/>
   <img width="12"/>
