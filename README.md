@@ -59,7 +59,7 @@ I like understanding **how things work internally**, not just making them work.
 ## 🔗 GenAI / Agentic Tooling
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42"/>
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="42"/>
   <img width="12"/>
@@ -67,6 +67,7 @@ I like understanding **how things work internally**, not just making them work.
   <img width="12"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elasticsearch.svg" height="42"/>
 </div>
+
 
 
 ## ☁️ Cloud · Backend · Frameworks
