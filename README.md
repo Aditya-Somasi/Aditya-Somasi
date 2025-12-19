@@ -93,11 +93,6 @@ I like understanding **how things work internally**, not just making them work.
 
 </div>
 
-<sub>Google ADK represented via Google Cloud ecosystem</sub>
-
-
-
-
 ## ☁️ Cloud · Backend · Frameworks
 
 <div align="left">
