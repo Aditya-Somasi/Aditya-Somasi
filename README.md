@@ -59,25 +59,42 @@ I like understanding **how things work internally**, not just making them work.
 ## 🔗 GenAI / Agentic Tooling
 
 <div align="left">
+
   <!-- Azure OpenAI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42"/>
   <img width="12"/>
 
-  <!-- Google ADK / Google AI -->
+  <!-- Google ADK (Google Cloud) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42"/>
   <img width="12"/>
 
   <!-- LangChain -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="42"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langchain/white"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/langchain/black"/>
+    <img height="42"/>
+  </picture>
   <img width="12"/>
 
   <!-- FastAPI -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" height="42"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastapi/white"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/fastapi/black"/>
+    <img height="42"/>
+  </picture>
   <img width="12"/>
 
   <!-- Elasticsearch -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elasticsearch.svg" height="42"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/elasticsearch/white"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/elasticsearch/black"/>
+    <img height="42"/>
+  </picture>
+
 </div>
+
+<sub>Google ADK represented via Google Cloud ecosystem</sub>
+
 
 
 
